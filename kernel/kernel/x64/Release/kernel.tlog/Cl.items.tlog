@@ -1,0 +1,10 @@
+D:\master\programming_security_measures\MiniOS\kernel\ata.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\ata.obj
+D:\master\programming_security_measures\MiniOS\kernel\cmos.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\cmos.obj
+D:\master\programming_security_measures\MiniOS\kernel\commands.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\commands.obj
+D:\master\programming_security_measures\MiniOS\kernel\logging.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\logging.obj
+D:\master\programming_security_measures\MiniOS\kernel\main.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\main.obj
+D:\master\programming_security_measures\MiniOS\kernel\pic.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\pic.obj
+D:\master\programming_security_measures\MiniOS\kernel\pit.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\pit.obj
+D:\master\programming_security_measures\MiniOS\kernel\ps2.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\ps2.obj
+D:\master\programming_security_measures\MiniOS\kernel\screen.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\screen.obj
+D:\master\programming_security_measures\MiniOS\kernel\string.c;D:\master\programming_security_measures\MiniOS\kernel\kernel\x64\Release\string.obj

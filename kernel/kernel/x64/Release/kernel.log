@@ -1,0 +1,52 @@
+﻿  Performing Custom Build Tools
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:174: warning: symbol `ASMEntryPoint': GLOBAL directive after symbol definition is an experimental feature
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:174: warning: symbol `__cli': GLOBAL directive after symbol definition is an experimental feature
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:174: warning: symbol `__sti': GLOBAL directive after symbol definition is an experimental feature
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:174: warning: symbol `__magic': GLOBAL directive after symbol definition is an experimental feature
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:174: warning: symbol `__enableSSE': GLOBAL directive after symbol definition is an experimental feature
+  D:\master\programming_security_measures\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  Performing Custom Build Tools
+  ata.c
+D:\master\programming_security_measures\MiniOS\kernel\scancodes.h(105,14): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+  (compiling source file 'ata.c')
+  
+  cmos.c
+  commands.c
+D:\master\programming_security_measures\MiniOS\kernel\scancodes.h(105,14): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+  (compiling source file 'commands.c')
+  
+D:\master\programming_security_measures\MiniOS\kernel\commands.c(68,14): warning C4090: 'function': different 'volatile' qualifiers
+  logging.c
+D:\master\programming_security_measures\MiniOS\kernel\scancodes.h(105,14): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+  (compiling source file 'logging.c')
+  
+  main.c
+D:\master\programming_security_measures\MiniOS\kernel\scancodes.h(105,14): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+  (compiling source file 'main.c')
+  
+D:\master\programming_security_measures\MiniOS\kernel\main.c(41,25): warning C4312: 'type cast': conversion from 'unsigned int' to 'int *' of greater size
+  pic.c
+  pit.c
+  ps2.c
+D:\master\programming_security_measures\MiniOS\kernel\scancodes.h(105,14): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+  (compiling source file 'ps2.c')
+  
+  screen.c
+D:\master\programming_security_measures\MiniOS\kernel\scancodes.h(105,14): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+  (compiling source file 'screen.c')
+  
+D:\master\programming_security_measures\MiniOS\kernel\screen.c(281,29): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\master\programming_security_measures\MiniOS\kernel\screen.c(298,25): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  string.c
+D:\master\programming_security_measures\MiniOS\kernel\string.c(675,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\master\programming_security_measures\MiniOS\kernel\string.c(682,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\master\programming_security_measures\MiniOS\kernel\string.c(709,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\master\programming_security_measures\MiniOS\kernel\string.c(802,33): warning C4090: 'function': different 'const' qualifiers
+  Generating Code...
+LINK : warning LNK4281: undesirable base address 0x200000 for x64 image; set base address above 4GB for best ASLR optimization
+  kernel.vcxproj -> D:\master\programming_security_measures\MiniOS\kernel\x64\Release\kernel.exe
+          1 file(s) copied.

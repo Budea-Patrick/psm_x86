@@ -1,0 +1,4 @@
+^D:\MASTER\PROGRAMMING_SECURITY_MEASURES\MINIOS\KERNEL\__INIT.ASM
+".\..\utils\nasm" -o "kernel\x64\Release\__init.obj" -f win64 "D:\master\programming_security_measures\MiniOS\kernel\__init.asm"
+^D:\MASTER\PROGRAMMING_SECURITY_MEASURES\MINIOS\KERNEL\__INTERRUPTS.ASM
+".\..\utils\nasm" -o "kernel\x64\Release\__interrupts.obj" -f win64 "D:\master\programming_security_measures\MiniOS\kernel\__interrupts.asm"

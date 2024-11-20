@@ -1,0 +1,80 @@
+Logging initialized!
+Setting up the idt entries
+idt entries have been set up, loading the idt using inline assembly
+Loaded the IDT
+Setting up the PIC
+PIC has been set up
+Setting up the PIT
+PIT has been set up
+Setting up the keyboard
+Scancode Set 1 enabled
+Keyboard controller has been set up
+Searching ATA devices
+Checking bus 0, device 0...
+Entered identify
+Sending identify command
+Device detected on bus 0
+Serial number - BXHD00011           
+Model number - Generic 1234                            
+Device found on bus 0, device 0
+Checking bus 0, device 1...
+Entered identify
+Sending identify command
+No device on bus 0
+Checking bus 1, device 0...
+Entered identify
+Timeout on port 170
+Timeout waiting device select, bus 1
+Checking bus 1, device 1...
+Entered identify
+Timeout on port 170
+Timeout waiting device select, bus 1
+Reading first sector from the disk...
+Read successful on bus 0, device 0, LBA 0, sectors 1
+00000000: 31 C0 8E D8 8E C0 8E E8 8E D0 8E E0 BC 00 7C B4  | 1ÀŽØŽÀŽèŽÐŽà¼|´
+00000010: 00 CD 13 B4 02 B0 09 B5 00 B1 02 B6 00 BB 00 7E  | Í´°	µ±¶»~
+00000020: CD 13 73 02 FA F4 EA 00 7E 00 00 42 42 42 42 42  | Ísúôê~BBBBB
+00000030: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000040: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000050: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000060: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000070: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000080: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000090: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000000A0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000000B0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000000C0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000000D0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000000E0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000000F0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000100: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000110: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000120: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000130: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000140: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000150: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000160: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000170: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000180: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+00000190: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000001A0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000001B0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000001C0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000001D0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000001E0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42  | BBBBBBBBBBBBBBBB
+000001F0: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 55 AA  | BBBBBBBBBBBBBBUª
+Entered identify
+Sending identify command
+Device detected on bus 0
+Serial number - BXHD00011           
+Model number - Generic 1234                            
+Entered identify
+Sending identify command
+No device on bus 0
+Entered identify
+Timeout on port 170
+Timeout waiting device select, bus 1
+Entered identify
+Timeout on port 170
+Timeout waiting device select, bus 1
+Read successful on bus 0, device 0, LBA 0, sectors 1
